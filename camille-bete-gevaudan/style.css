@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  border: thistle;
+  border-style: dotted;
+  padding: 1em;
+  font-style: normal;
+  text-transform: uppercase;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  color: rgba(230, 230, 230, 0.911);
+  background-image: url(forest.jpg);
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+strong {
+  color: rgba(182, 15, 15, 0.87);
+  background-color: rgba(24, 11, 11, 0.514);
+}
+
+.gevaudan {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-style: solid;
+  border-color: rgba(24, 11, 11, 0.514);
+}
+
+.illustration {
+  border-radius: 50%;
+  width: 20%;
+  border-color: rgba(24, 11, 11, 0.514);
+  border-style: solid;
+}
+
+ul {
+  background-color: rgba(24, 11, 11, 0.514);
+}
